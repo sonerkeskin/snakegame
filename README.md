@@ -1,2 +1,2 @@
 # snakegame
-Yılan oyunu (başlangıç düzeyde 
+Yılan oyunu (başlangıç düzeyde C diliyle yazılmıştır)
